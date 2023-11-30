@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Callcocam\FlImporter\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FlImporterCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'fl-importer';
 
     public $description = 'My command';
 
